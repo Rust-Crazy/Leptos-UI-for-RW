@@ -1,4 +1,4 @@
-# Realworld app with Leptos + Axum + Postgres
+# RW with Leptos + Axum + Postgres
 
 You can check it online in https://realworld-leptos.onrender.com (it might take a couple of seconds to startup).
 
